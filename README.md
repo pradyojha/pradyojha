@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Prady
-- 👀 I’m interested in distributed system design, algorithms and AI.
-- 🌱 I’m currently learning AWS and Deep Learning.
-- 💞️ I’m looking to collaborate on DL Algorithms. 
-- 📫 How to reach me pradyumna.ojha@gmail.com
+- 👋 Hi, I’m Pradyumna Ojha
+- Core focus areas : CS Algorithms, Distributed System Design & Development, Operations Research(Optimisation), ML and DL.
+- Learn and share practices in DevOPs and MLOPs
+- How to reach me pradyumna.ojha@gmail.com
 
 <!---
 pradyojha/pradyojha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
