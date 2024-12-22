@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pradyumna Ojha
-- Core focus areas : CS Algorithms, Distributed System Design & Development, Operations Research(Optimisation), ML and DL.
+- Core focus areas : CS Algorithms, Distributed System Design & Development, Operations Research(Optimisation), ML and DL and Optimisation.
 - Learn and share practices in DevOPs and MLOPs
 - How to reach me pradyumna.ojha@gmail.com
 
