@@ -1,4 +1,4 @@
-# Understanding the Difference between Heuristics vs. Mathematical Optimization
+# Understanding the difference between Heuristics vs. Mathematical Optimization
 
 Heuristics and mathematical optimization are two distinct approaches used to solve complex problems. Heuristics are useful for fast, practical or good enough solutions, while mathematical optimization provides the most accurate and optimal solutions, although often at the cost of more time and computational resources.
 
@@ -21,23 +21,13 @@ Heuristics and mathematical optimization are two distinct approaches used to sol
 | **Speed** | Quick, practical solutions | Can be slower due to thorough analysis |
 | **Complexity Handling** | Struggles with highly complex problems | Handles complex scenarios effectively |
 
-In summary, heuristics are useful for fast, practical solutions, while mathematical optimization provides the most accurate and optimal solutions, albeit often at the cost of more time and computational resources.
-
 #### References
 
 1: https://www.decisionspot.com/post/mathematical-optimization-and-heuristics-a-guide-to-effective-decision-making
-
-[2]: https://en.wikipedia.org/wiki/Heuristic_(computer_science)
-
-[3]: https://cdn.gurobi.com/wp-content/uploads/2022/08/ManagementPaper-4KeyAdvantagesOfMoVsHeuristics.pdf?x58142
-
-[4]: https://stackoverflow.com/questions/10445700/what-is-the-difference-between-heuristics-and-metaheuristics
-
-[5]: https://lambdascs.com/blog/mathematical-optimization-based-tools-vs-heuristics-based-tools2-for-supply-chain-network-design-and-optimization/
-
-[6]: https://en.wikipedia.org/wiki/Heuristic
-
-[7]: https://www.gurobi.com/resources/4-key-advantages-of-using-mathematical-optimization-instead-of-heuristics/
-
-[8]: https://www.icrontech.com/resources/blogs/optimization-vs-heuristics-which-is-the-right-approach-for-your-business
-
+2: https://en.wikipedia.org/wiki/Heuristic_(computer_science)
+3: https://cdn.gurobi.com/wp-content/uploads/2022/08/ManagementPaper-4KeyAdvantagesOfMoVsHeuristics.pdf?x58142
+4: https://stackoverflow.com/questions/10445700/what-is-the-difference-between-heuristics-and-metaheuristics
+5: https://lambdascs.com/blog/mathematical-optimization-based-tools-vs-heuristics-based-tools2-for-supply-chain-network-design-and-optimization/
+6: https://en.wikipedia.org/wiki/Heuristic
+7: https://www.gurobi.com/resources/4-key-advantages-of-using-mathematical-optimization-instead-of-heuristics/
+8: https://www.icrontech.com/resources/blogs/optimization-vs-heuristics-which-is-the-right-approach-for-your-business
