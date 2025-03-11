@@ -1,4 +1,4 @@
-# Heuristics vs. Mathematical Optimization: Understanding the Difference
+# Understanding the Difference between Heuristics vs. Mathematical Optimization
 
 Heuristics and mathematical optimization are two distinct approaches used to solve complex problems. Heuristics are useful for fast, practical or good enough solutions, while mathematical optimization provides the most accurate and optimal solutions, although often at the cost of more time and computational resources.
 
@@ -25,7 +25,7 @@ In summary, heuristics are useful for fast, practical solutions, while mathemati
 
 #### References
 
-[1]: https://www.decisionspot.com/post/mathematical-optimization-and-heuristics-a-guide-to-effective-decision-making
+1: https://www.decisionspot.com/post/mathematical-optimization-and-heuristics-a-guide-to-effective-decision-making
 
 [2]: https://en.wikipedia.org/wiki/Heuristic_(computer_science)
 
